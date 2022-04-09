@@ -1,9 +1,15 @@
 import React from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Home from "./layouts/MainPage";
 
-function App() {
+function App(): JSX.Element {
   return (
     <>
-      <div className="App">Medusa Storefront</div>
+      <Router>
+        <Routes>
+          <Route path="/" element={<Home />} />
+        </Routes>
+      </Router>
     </>
   );
 }

@@ -1,0 +1,12 @@
+.navigation-title {
+  display: flex;
+  color: #8661d1;
+}
+.navigation-title h1 {
+  flex-grow: 1;
+}
+@media (max-width: 480px) {
+  .navigation-title {
+    flex-direction: column;
+  }
+}
