@@ -14,7 +14,7 @@ npm install axios react-router-dom
 
 ![installing packages](https://user-images.githubusercontent.com/37651620/162577546-d0e8e612-3cef-4068-8643-eeed5ca78fea.png)
 
-After installing the `axios` and `react-router-dom` packages your `package.json` file of storefront/client should resemble somthing like this:
+After installing the `axios` and `react-router-dom` packages your `package.json` file of storefront/client should resemble something like this:
 
 ```json
 {
@@ -56,6 +56,18 @@ After installing the `axios` and `react-router-dom` packages your `package.json`
   }
 }
 ```
+
+### Cleanup Storefront Boilerplate
+
+![Folder structure](https://user-images.githubusercontent.com/37651620/162579135-abcd875e-e255-40fe-aad5-c9779bda1478.png)
+
+### Starting React application
+
+```
+npm start
+```
+
+![npm start](https://user-images.githubusercontent.com/37651620/162579081-aca91bd2-a431-480d-87df-7e53f60e2cd3.png)
 
 ## Medusa Store initialisation
 
