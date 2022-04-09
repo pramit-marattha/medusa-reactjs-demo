@@ -14,6 +14,49 @@ npm install axios react-router-dom
 
 ![installing packages](https://user-images.githubusercontent.com/37651620/162577546-d0e8e612-3cef-4068-8643-eeed5ca78fea.png)
 
+After installing the `axios` and `react-router-dom` packages your `package.json` file of storefront/client should resemble somthing like this:
+
+```json
+{
+  "name": "storefront",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.4.1",
+    "@types/node": "^16.11.26",
+    "@types/react": "^17.0.44",
+    "@types/react-dom": "^17.0.15",
+    "axios": "^0.26.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.0",
+    "typescript": "^4.6.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": ["react-app", "react-app/jest"]
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
+```
+
 ## Medusa Store initialisation
 
 ```
