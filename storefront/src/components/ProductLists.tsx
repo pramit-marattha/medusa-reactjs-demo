@@ -30,6 +30,17 @@ function ProductLists(): JSX.Element {
               <div className="product-details">
                 <h4>{prodList.title}</h4>
                 <p>{prodList.description}</p>
+                <div>
+                  {prodList.variants.map((variant: any) => {
+                    return (
+                      <>
+                        {variant.prices.map((price: any) => {
+                          return <>{price.amount}</>;
+                        })}
+                      </>
+                    );
+                  })}
+                </div>
               </div>
             </div>
           </>
