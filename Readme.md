@@ -22,6 +22,14 @@ medusa develop
 
 ![Medusa Develop](https://user-images.githubusercontent.com/37651620/162577000-e8e1f879-9336-42f4-90ff-b808cc3154c6.png)
 
+### Accessing the products
+
+```
+http://localhost:9000/store/products
+```
+
+![accessing the products](https://user-images.githubusercontent.com/37651620/162577340-9ec42328-1086-49f7-9e3e-d6320594796d.png)
+
 ## Medusa Admin
 
 ### Cloning the Medusa Admin
