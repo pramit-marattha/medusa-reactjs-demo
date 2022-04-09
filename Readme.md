@@ -6,6 +6,14 @@ npx create-react-app storefront --template typescript
 
 ![CRA Installation](https://user-images.githubusercontent.com/37651620/162574946-94a5a447-1103-4d17-adb9-27e9c87be41e.png)
 
+### Installing few packages
+
+```
+npm install axios react-router-dom
+```
+
+![installing packages](https://user-images.githubusercontent.com/37651620/162577546-d0e8e612-3cef-4068-8643-eeed5ca78fea.png)
+
 ## Medusa Store initialisation
 
 ```
