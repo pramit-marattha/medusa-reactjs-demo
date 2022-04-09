@@ -16,6 +16,10 @@ medusa new server --seed
 
 ### Medusa Develop
 
+```
+medusa develop
+```
+
 ![Medusa Develop](https://user-images.githubusercontent.com/37651620/162577000-e8e1f879-9336-42f4-90ff-b808cc3154c6.png)
 
 ## Medusa Admin
