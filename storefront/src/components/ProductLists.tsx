@@ -62,7 +62,9 @@ function ProductLists(): JSX.Element {
                                 {variant.prices.map((price: any) => {
                                   return (
                                     <>
-                                      {price.currency_code}: ${price.amount}
+                                      {price.currency_code}: $
+                                      {price.amount /
+                                        variant.inventory_quantity}
                                     </>
                                   );
                                 })}

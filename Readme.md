@@ -148,4 +148,4 @@ yarn install
 
 ![settings](https://user-images.githubusercontent.com/37651620/162610106-ac140e64-629c-4182-a24c-a209379cb30c.png)
 
-![Demo](https://user-images.githubusercontent.com/37651620/162608505-762873f3-e03c-4e02-ab6b-d2021371a147.png)
+![Demo](https://user-images.githubusercontent.com/37651620/162610735-ead20c77-99f9-4569-8bfb-b3522436be76.png)
