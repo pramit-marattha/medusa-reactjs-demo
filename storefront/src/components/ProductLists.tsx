@@ -18,7 +18,6 @@ function ProductLists(): JSX.Element {
   async function loadProducts() {
     const productLists = await MedusaApiReq.getProducts();
     setProductList(productLists.data.products);
-    console.log("whattt", productLists.data.products);
   }
 
   return (
