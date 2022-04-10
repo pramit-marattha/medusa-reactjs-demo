@@ -3,7 +3,7 @@ import ProductLists from "../components/ProductLists";
 import "./MainPage.css";
 import { BiStore } from "react-icons/bi";
 
-function RootPage(): JSX.Element {
+function MainPage(): JSX.Element {
   return (
     <>
       <nav className="navigation-title">
@@ -17,4 +17,4 @@ function RootPage(): JSX.Element {
   );
 }
 
-export default RootPage;
+export default MainPage;
