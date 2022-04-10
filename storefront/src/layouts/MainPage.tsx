@@ -1,4 +1,4 @@
-import ClothesList from "../components/ProductLists";
+import ProductLists from "../components/ProductLists";
 
 import "./MainPage.css";
 import { BiStore } from "react-icons/bi";
@@ -12,7 +12,7 @@ function RootPage(): JSX.Element {
           Awesomee Store
         </h1>
       </nav>
-      <ClothesList />
+      <ProductLists />
     </>
   );
 }
