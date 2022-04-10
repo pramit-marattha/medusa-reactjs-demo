@@ -9,12 +9,22 @@ npx create-react-app storefront --template typescript
 ### Installing few packages
 
 ```
-npm install axios react-router-dom
+npm install axios react-router-dom react-bootstrap bootstrap react-icons
+```
+
+or
+
+```
+yarn add axios react-router-dom react-bootstrap bootstrap react-icons
 ```
 
 ![installing packages](https://user-images.githubusercontent.com/37651620/162577546-d0e8e612-3cef-4068-8643-eeed5ca78fea.png)
 
-After installing the `axios` and `react-router-dom` packages your `package.json` file of storefront/client should resemble something like this:
+![Installing packages](https://user-images.githubusercontent.com/37651620/162605020-4b2a415e-a257-4a96-87e1-6a031043c200.png)
+
+![React Icons](https://user-images.githubusercontent.com/37651620/162605654-e99cb009-09e8-4c7c-9899-5238c63002a7.png)
+
+After installing the `react-icons`, `react-bootstrap`, `bootstrap` ,`axios` and `react-router-dom` packages your `package.json` file of storefront/client should resemble something like this:
 
 ```json
 {
@@ -30,8 +40,11 @@ After installing the `axios` and `react-router-dom` packages your `package.json`
     "@types/react": "^17.0.44",
     "@types/react-dom": "^17.0.15",
     "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
     "react": "^18.0.0",
+    "react-bootstrap": "^2.2.3",
     "react-dom": "^18.0.0",
+    "react-icons": "^4.3.1",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.0",
     "typescript": "^4.6.3",
@@ -110,3 +123,9 @@ yarn install
 ```
 
 ![Installing packages](https://user-images.githubusercontent.com/37651620/162576701-1559d001-8647-4eb8-bbe9-fd9029740212.png)
+
+### Starting Admin Pannel
+
+![Admin Pannel](https://user-images.githubusercontent.com/37651620/162586690-eab9c8d6-b943-4dfa-b35f-bd999f73648c.png)
+
+---
