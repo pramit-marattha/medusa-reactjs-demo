@@ -9,7 +9,7 @@ function RootPage(): JSX.Element {
       <nav className="navigation-title">
         <h1>
           <BiStore />
-          Medusa Store
+          Awesomee Store
         </h1>
       </nav>
       <ClothesList />
