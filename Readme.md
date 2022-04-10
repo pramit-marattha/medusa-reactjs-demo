@@ -134,8 +134,18 @@ yarn install
 
 ![Admin Login](https://user-images.githubusercontent.com/37651620/162609954-6f3b0501-0873-4789-8331-cd559f309a28.png)
 
+![order dashboard](https://user-images.githubusercontent.com/37651620/162610048-1d399064-26b0-4bb9-b284-c34c0d82855f.png)
+
 ![Products Demo](https://user-images.githubusercontent.com/37651620/162609958-004471ae-e865-46c0-b831-c503558e67d7.png)
 
 ![Products Dashboard](https://user-images.githubusercontent.com/37651620/162609960-7b3e75c7-103b-496d-ac9b-cf04d6bf6565.png)
+
+![customers dashboard](https://user-images.githubusercontent.com/37651620/162610060-04e5ae94-3d73-4e26-803a-4f00372a874c.png)
+
+![discounts dashboard](https://user-images.githubusercontent.com/37651620/162610069-6d54f1ea-b8f1-42b8-ae2e-76d88cac5abe.png)
+
+![gift cards](https://user-images.githubusercontent.com/37651620/162610093-8ba9c544-0b2a-4a33-a962-a226b09a8d59.png)
+
+![settings](https://user-images.githubusercontent.com/37651620/162610106-ac140e64-629c-4182-a24c-a209379cb30c.png)
 
 ![Demo](https://user-images.githubusercontent.com/37651620/162608505-762873f3-e03c-4e02-ab6b-d2021371a147.png)
