@@ -132,4 +132,10 @@ yarn install
 
 ## Final Demo
 
+![Admin Login](https://user-images.githubusercontent.com/37651620/162609954-6f3b0501-0873-4789-8331-cd559f309a28.png)
+
+![Products Demo](https://user-images.githubusercontent.com/37651620/162609958-004471ae-e865-46c0-b831-c503558e67d7.png)
+
+![Products Dashboard](https://user-images.githubusercontent.com/37651620/162609960-7b3e75c7-103b-496d-ac9b-cf04d6bf6565.png)
+
 ![Demo](https://user-images.githubusercontent.com/37651620/162608505-762873f3-e03c-4e02-ab6b-d2021371a147.png)
